@@ -1,7 +1,7 @@
 # EXP04-Implement Simple Hill Climbing Algorithm
 
-#### NAME: Aashima Nazreen Sayeed S
-#### REG NO: 212221240002
+#### NAME: SWATHIKA G
+#### REG NO: 212221230113
 
 ## AIM:
 Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration
